@@ -1,0 +1,5 @@
+(version 1)
+(rule "skew matching DP100E"
+     (constraint length (min 1455.42mil) (max 1455.42mil))
+	 (condition "A.NetClass == '90_OHM_DIFF'")
+	 (severity error))
