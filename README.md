@@ -24,5 +24,4 @@ This repository contains the complete hardware design files for a custom, enhanc
 ├── bluetooth_mcu.kicad_pro   # KiCad main project file
 ├── bluetooth_mcu.kicad_sch   # System schematic design
 ├── bluetooth_mcu.kicad_pcb   # 4-layer PCB layout design
-├── .gitignore                # Automatically filters out KiCad backup/local files
 └── README.md                 # Project documentation (this file)
